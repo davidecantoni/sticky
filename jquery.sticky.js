@@ -18,7 +18,8 @@
       wrapperClassName: 'sticky-wrapper',
       center: false,
       getWidthFrom: '',
-      responsiveWidth: false
+      responsiveWidth: false,
+      newsomething
     },
     $window = $(window),
     $document = $(document),
